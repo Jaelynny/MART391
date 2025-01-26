@@ -2,7 +2,7 @@
 
 ## 1. What type of multiplayer game is it?
 
-Monopoly is a classic multiplayer board game designed for 2-8 players. It’s a strategy-based game where players buy, trade, and manage properties using fake money to bankrupt their opponents and become the wealthiest player.
+Monopoly is a classic multiplayer board game designed for 2-8 players. It's a strategy-based game where players buy, trade, and manage properties using fake money to bankrupt their opponents and become the wealthiest player.
 
 ## 2. What part of the game are players most drawn to?
 
