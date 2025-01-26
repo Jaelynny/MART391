@@ -28,3 +28,11 @@ Yes, players often depend on others in several capacities:
 - **Rent Payments**: Players pay rent to other players when landing on their developed properties, affecting each other's financial status.
 - **Strategy and Alliances**: Players may form temporary alliances to block or challenge stronger opponents.
 
+# Treasure Hunt
+
+- The lodge a sense of community, a wide range of students coming together to eat and everyone comes from different backgrounds.
+- Game Den for communication
+- UM daycare are is full of unpredicatability due to the children.
+- Museum and Showroom for achievements.
+
+
