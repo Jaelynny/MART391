@@ -1,0 +1,6 @@
+Host:              co-op-quest.eks1.us-east-1.aws.cratedb.net
+Port (PostgreSQL): 5432
+Port (HTTPS):      4200
+Database:          crate
+Username:          admin
+Password:          9nCcp(Q*g0R7G9m1*m19tv24)
